@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EB/mB6W+//ermOWr/JgvCCYkENstPL7I2XuKb/u8nGcrUlC8WLio4kqn+5oHnCkxQka4Q7YdU1SFjydeZBqYvg==",
+  "success": true,
+  "projectFilePath": "D:\\2 курс\\1 семестр\\ООП\\Лабораторна 2\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korniychuk_Inna\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Korniychuk_Inna\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
